@@ -91,7 +91,7 @@ lua require('init')
 "
 
 " COC "
-inoremap <expr> <cr> coc#pum#visible() ? coc#pum#confirm() : '\<CR>'
+"inoremap <expr> <cr> coc#pum#visible() ? coc#pum#confirm() : '\<CR>'
 
 "
 " Theme 
