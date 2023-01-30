@@ -50,13 +50,12 @@ Plug 'terryma/vim-multiple-cursors'
 
 -- Terminal
 Plug 'tc50cal/vim-terminal'
-
 Plug 'tpope/vim-surround'
 Plug 'alvan/vim-closetag'
 Plug 'glepnir/dashboard-nvim'
-
 Plug 'rcarriga/nvim-notify'
 Plug 'tpope/vim-eunuch'
+Plug 'svermeulen/vim-easyclip'
 
 vim.call('plug#end')
 
