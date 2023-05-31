@@ -57,5 +57,6 @@ Plug 'rcarriga/nvim-notify'
 Plug 'tpope/vim-eunuch'
 Plug 'svermeulen/vim-easyclip'
 
+Plug 'dense-analysis/ale'
 vim.call('plug#end')
 

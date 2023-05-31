@@ -90,6 +90,6 @@ require('lspconfig')['phpactor'].setup {
 require('lspconfig')['html'].setup {
   capabilities = capabilities
 }
-require('lspconfig')['sqls'].setup {
+require('lspconfig')['sqlls'].setup {
   capabilities = capabilities
 }
